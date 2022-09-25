@@ -35,6 +35,7 @@ img {
     width: 30%;
     border-radius: calc(var(--image) * 2);
     border: 4px solid var(--text);
+    max-width: 200px;
 }
 
 a {
